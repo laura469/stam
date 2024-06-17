@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "mails-gun",
+  "private_key_id": "84ce6a0cb103cc57b09a070f76cae79f948d0975",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCNLYsMkRrpoAgV\nMLoPJ9A+iCs1I4bWub8gMnIK5SFgltUZau2sxVID1c6u2jSuGB1lMZ7ZAQO6gOOO\npJ6e+QdoGjzl7DtaSog1NvQ7olT+Dg+dOw9FsGVeLXeGXaQU6zCX7m2bDiTujglm\nxc2hHqPGe3kbQDmcEdy8uaSoTHjTVh+KZxnCZuOHHW7MeOFLP6YE61KUjWG03cjm\nqknGo22xoYR8jd3Jv15mf5hfbSTyZIwFTqejIdLy27/aEkZgVGf77xTavKj3MDZx\nYKP1Gv9fNAhLo/6ZZk9hWbhvgP6W3mi+IBXvSneIt6iVnlvcpyJweLzxHqLcRyWl\nWA/iw9jnAgMBAAECggEAIMU0FCAwk49SoPyVC8SNmZ5JDUYoW/p0y3f6Md46761D\nXOmNrv+EiKBeIAdFmC2/0QgCG9QY9fdKGwfKTBN5LSh9/07k/hHz6QpPCfKl8Oz5\noeEeK+qEtSYvqvBckICBYJr3NTlEyF0PAJyknSQ8Fuv9Uh6H4Nrilqou9uP9Xey0\n/5E9XYBFZLOmyku2iidM6qQeWOjiYT3vkMw3v7I6aEZleLolYogQ2V1pXBXAvKtt\nxjzMXG/PVCimToyX0I5xxHVUNCQwxuugUENK4qs3PVlfDxzhAizJ3pPc4niDOQKv\nzlrRgzXMO+UycaY4l5GZjfVZ9CeV7jbOVq00zYBMTQKBgQDG32aQ9buHYtl0hZv8\n2IwC4TGSF8s7p1QrETMmR9b2U1lAodL8vFK32TU9q/jJqjQEYNuF6Kkor9Oq6AvP\n5OBMBd8w2ELLyRABpSEmzTmbasT8R3dgcQPFHC47/2u9PlVP0f4vD6K8wy8SUDdq\n/fBqafcv4tfcl5cwRP55Wql8bQKBgQC1u2n/jXF7GytKbBy3YlsRpLJjxYLx+caf\nS0IrwELTfpzZIsliGNW2ItSYQByXfIXO21eh+QCXR7OnrRcGLSFkkYDOPAFXYHPO\nHRbWdKQPtiAQpPPcyIJg4iGxUs23DP62k8pUbNj4U396KX1aImKo2o+FGrQW54FX\n46snrAVuIwKBgEeWTU5rFmkivRJDsiXvMV8r/vMO25qKnjKui1IBVDDxSdSJK/DM\nPZ5ucsrTZ8f4G6dj0kG+wX2i5TfFNdNNGSxkhLYJcun2Y2ukLG3SPCVk5qnFdARk\nSi4e+cmhJQBHOuBzv+Li5vq56+zUsU4zQOKdaFx1dKy0aLj4bP30E8R1AoGAVYyD\nCoUIDb6tc1xPbFiFrFmOjH8W9Ffzk1s3LCdWjf8FUQYaLO6p9BKTZ5SOoRVCXC1P\nJHV2PMDJJr7JnuOx24jPTMZcj0hdW4LAFHZWIPtIPu2XyrAtB/SLjdD//BLG+SW7\nUmDnBocv9E8BrmOPdBNnCm6Wpk2Wysvm70cAS2cCgYEAkETQ3n1CPsp5JZcr0PqJ\nKT2UTI2oclJXxGUbCzqYOVAF2I74W2xAiLIrY29GuNKuyxsZ6KYp9OB8QpAZvNUd\n2qsqI6OHCdKW2DUyeM3FtvBT1rz6DR0YJBKHC73LJ8iUBxFKxNnPxighl4IYP7Tu\n/Y8It7IrXO2fDiF0EDq6Mp0=\n-----END PRIVATE KEY-----\n",
+  "client_email": "mails-gun-api@mails-gun.iam.gserviceaccount.com",
+  "client_id": "100745503389078326635",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mails-gun-api%40mails-gun.iam.gserviceaccount.com"
+}
