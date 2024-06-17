@@ -9,7 +9,8 @@ mails-machine-gun/node_modules/
 
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 **.env*
-
+mails-gun-google-api.json
+google-key.json
 # dependencies
 /node_modules
 /.pnp
