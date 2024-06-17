@@ -3,10 +3,12 @@ mails-machine-gun/node_modules/
 /.env
 /mysql/index.js
 /translator/
+.env
 
 
 
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+**.env*
 
 # dependencies
 /node_modules
